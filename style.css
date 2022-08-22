@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(215, 198, 44);
+}
+
+.resposta{
+    width: 30%;
+    height: 90px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.chat-bot{
+    background-color: black;
+    width: fit-content;
+    border-radius: 15px;
+    color: whitesmoke;
+}
+
+.titulo{
+    margin-left: 24%;
+}
+
+.resposta{
+    background-color: whitesmoke;
+}
+
+.bot-inicio{
+    background-color: green;
+    color: whitesmoke;
+}
+.bot-del{
+    background-color: red;
+    color: whitesmoke;
+}
